@@ -1,0 +1,22 @@
+{
+  "name": "handson-day-6-backend",
+  "version": "1.0.0",
+  "description": "backend to support angular day 6 hands on",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayuagpr/handson-day-6-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "bugs": {
+    "url": "https://github.com/bayuagpr/handson-day-6-backend/issues"
+  },
+  "homepage": "https://github.com/bayuagpr/handson-day-6-backend#readme"
+}
